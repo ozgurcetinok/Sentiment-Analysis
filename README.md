@@ -19,11 +19,11 @@ Open the Jupyter Notebook and ipynb file. Keep the data file (JSON) in the same 
 
 External libraries such as pandas, re, numpy, sk learn and nltk are used. All are publicly available. 
 
-If you have trouble importing these, type “!pip install libraryname” in a notebook cell o install it. If you have UTF-8 error, you have to fix your bash profile by adding
+If you have trouble importing these, type “!pip install libraryname” in a notebook cell o install it. If you have UTF-8 error, you have to fix your bash profile by adding following
 commands to it.
 
 --export LC_ALL=en_US.UTF-8
 
 --export LANG=en_US.UTF-8
 
-Step by step explanation is provided in the Jupyter Notebook.
+Step by step explanation about the code is provided in the Jupyter Notebook.
